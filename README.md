@@ -1,8 +1,8 @@
-### Olá! Eu sou o Adriel ✌️
+### Oie✨! Eu sou o Adriel 🌈✌️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriel-itamar-machado-mota-b32b45222/)
 
-## Tecnologias que costumo utilizar
+## Tecnologias que costumo utilizar👨‍💻✨
 
 <div>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
