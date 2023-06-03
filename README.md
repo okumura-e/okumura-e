@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Adriel✨
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriel-itamar-machado-mota-b32b45222/)
-![SoExcited~GIF](https://github.com/okumura-e/okumura-e/assets/84414795/2cb50ec4-9dc1-4d5c-b2c7-1d3e4ba322c5)
 
 ## Tecnologias que costumo utilizar:
 
