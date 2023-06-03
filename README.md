@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Adriel ✌️
 
-[![Linkedin](https://linkedin/adrie](https://www.linkedin.com/in/adriel-itamar-machado-mota-b32b45222/))
+[![Linkedin](https://www.linkedin.com/in/adriel-itamar-machado-mota-b32b45222/))
 
 
 ## Tecnologias que costumo utilizar
