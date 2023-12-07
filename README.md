@@ -1,6 +1,9 @@
-### Olá! Eu sou o Adriel✨
+### Olá, mundo! Meu nome é Adriel 👋
+Sou Tocantinense, tenho 21 anos e sou **Desenvolvedor Front-End**.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriel-itamar-machado-mota-b32b45222/)
+<p>Estou sempre buscando desafios e oportunidades que impulsionem meu aprendizado e crescimento. Se você estiver interessado em colaborar ou compartilhar ideias, não hesite em entrar em contato comigo. Adoro conhecer novas pessoas e explorar formas de contribuir para tornar o mundo digital um lugar ainda melhor.</p>
+
+<p>Para criar um mundo revolucionário e de maior inovação, desenvolvo sistemas, websites e aplicativos que geram valor. Procuro encontrar soluções criativas para problemas complexos.</p>
 
 ## Tecnologias que costumo utilizar:
 
@@ -22,5 +25,3 @@
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> 
     
 </div>
-
-### Para criar um mundo revolucionário e de maior inovação, desenvolvo sistemas, websites e aplicativos que geram valor. Procuro encontrar soluções criativas para problemas complexos.
