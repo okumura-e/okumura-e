@@ -1,7 +1,7 @@
 ### Olá, mundo! Meu nome é Adriel 👋
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p>Sou Tocantinense, tenho 21 anos e sou <strong>Desenvolvedor Front-End</strong>.</p>
+<p>Sou Tocantinense, tenho 22 anos e sou <strong>Desenvolvedor Front-End</strong>.</p>
 <p>Estou sempre buscando desafios e oportunidades que impulsionem meu aprendizado e crescimento. Se você estiver interessado em colaborar ou compartilhar ideias, não hesite em entrar em contato comigo. Adoro conhecer novas pessoas e explorar formas de contribuir para tornar o mundo digital um lugar ainda melhor.</p>
 <p>Para criar um mundo revolucionário e de maior inovação, desenvolvo sistemas, websites e aplicativos que geram valor. Procuro encontrar soluções criativas para problemas complexos.</p>
 
