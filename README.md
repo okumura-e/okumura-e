@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
 </div>
 
-## 💌 Onde você pode me econtrar:
+## 💌 Onde você pode me encontrar:
 
 <a href="https://www.linkedin.com/in/adriel-itamar-machado-mota-b32b45222/" title="LinkedIn" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
